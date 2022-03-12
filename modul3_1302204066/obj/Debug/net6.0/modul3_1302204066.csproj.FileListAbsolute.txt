@@ -1,0 +1,15 @@
+C:\Users\TUF\Documents\Konstruksi Perangkat Lunak\Praktikum\Jurnal Modul 3\modul3_1302204066\modul3_1302204066\bin\Debug\net6.0\modul3_1302204066.exe
+C:\Users\TUF\Documents\Konstruksi Perangkat Lunak\Praktikum\Jurnal Modul 3\modul3_1302204066\modul3_1302204066\bin\Debug\net6.0\modul3_1302204066.deps.json
+C:\Users\TUF\Documents\Konstruksi Perangkat Lunak\Praktikum\Jurnal Modul 3\modul3_1302204066\modul3_1302204066\bin\Debug\net6.0\modul3_1302204066.runtimeconfig.json
+C:\Users\TUF\Documents\Konstruksi Perangkat Lunak\Praktikum\Jurnal Modul 3\modul3_1302204066\modul3_1302204066\bin\Debug\net6.0\modul3_1302204066.dll
+C:\Users\TUF\Documents\Konstruksi Perangkat Lunak\Praktikum\Jurnal Modul 3\modul3_1302204066\modul3_1302204066\bin\Debug\net6.0\modul3_1302204066.pdb
+C:\Users\TUF\Documents\Konstruksi Perangkat Lunak\Praktikum\Jurnal Modul 3\modul3_1302204066\modul3_1302204066\obj\Debug\net6.0\modul3_1302204066.csproj.AssemblyReference.cache
+C:\Users\TUF\Documents\Konstruksi Perangkat Lunak\Praktikum\Jurnal Modul 3\modul3_1302204066\modul3_1302204066\obj\Debug\net6.0\modul3_1302204066.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\Documents\Konstruksi Perangkat Lunak\Praktikum\Jurnal Modul 3\modul3_1302204066\modul3_1302204066\obj\Debug\net6.0\modul3_1302204066.AssemblyInfoInputs.cache
+C:\Users\TUF\Documents\Konstruksi Perangkat Lunak\Praktikum\Jurnal Modul 3\modul3_1302204066\modul3_1302204066\obj\Debug\net6.0\modul3_1302204066.AssemblyInfo.cs
+C:\Users\TUF\Documents\Konstruksi Perangkat Lunak\Praktikum\Jurnal Modul 3\modul3_1302204066\modul3_1302204066\obj\Debug\net6.0\modul3_1302204066.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Documents\Konstruksi Perangkat Lunak\Praktikum\Jurnal Modul 3\modul3_1302204066\modul3_1302204066\obj\Debug\net6.0\modul3_1302204066.dll
+C:\Users\TUF\Documents\Konstruksi Perangkat Lunak\Praktikum\Jurnal Modul 3\modul3_1302204066\modul3_1302204066\obj\Debug\net6.0\refint\modul3_1302204066.dll
+C:\Users\TUF\Documents\Konstruksi Perangkat Lunak\Praktikum\Jurnal Modul 3\modul3_1302204066\modul3_1302204066\obj\Debug\net6.0\modul3_1302204066.pdb
+C:\Users\TUF\Documents\Konstruksi Perangkat Lunak\Praktikum\Jurnal Modul 3\modul3_1302204066\modul3_1302204066\obj\Debug\net6.0\modul3_1302204066.genruntimeconfig.cache
+C:\Users\TUF\Documents\Konstruksi Perangkat Lunak\Praktikum\Jurnal Modul 3\modul3_1302204066\modul3_1302204066\obj\Debug\net6.0\ref\modul3_1302204066.dll
