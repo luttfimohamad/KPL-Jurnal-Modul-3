@@ -12,7 +12,7 @@ namespace modul3_1302204066
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("------------ MENCARI KODE BUAH ------------");
+            Console.WriteLine("-------------- MENCARI KODE BUAH --------------");
             Console.WriteLine("Daftar buah yang terssedia: ");
             Console.WriteLine("1. Apel          " + " 8. Kelapa");
             Console.WriteLine("2. Aprikot       " + " 9. Jagung");
@@ -32,6 +32,26 @@ namespace modul3_1302204066
             KodeBuah kodeBuah = new KodeBuah();
             Console.WriteLine("Kode Buah "+ masukan + ": " + kodeBuah.getKodeBuah(masukan) + "\n");
 
+            Console.WriteLine("------------ POSISI KARAKTER GAME ------------");
+
+            PosisiKarakterGame posisi = new PosisiKarakterGame();
+            Console.WriteLine("Posisi Karakter Game: ");
+            Console.Write("Tombol yang ingin anda tekan? (W/K): ");
+            String masukan2 = Console.ReadLine();
+            if (masukan2 == "W")
+            {
+                posisi.tombolS();
+            }
+            else if (masukan2 == "K")
+            {
+                posisi.tombolW();
+            }
+            else
+            {
+                Console.Write("*Tombol yang anda tekan salah" + "\n");
+            }
+            
+            
         }
     }
 }
